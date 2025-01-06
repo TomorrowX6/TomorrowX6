@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomorrowx6&label=Profile%20views&color=0e75b6&style=flat" alt="tomorrowx6" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomorrowx6" alt="tomorrowx6" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=TomorrowX6)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📝 I regularly write articles on [azusa.me](azusa.me)
 
