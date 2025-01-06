@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomorrowx6&label=Profile%20views&color=0e75b6&style=flat" alt="tomorrowx6" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TomorrowX6&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TomorrowX6&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 📝 I regularly write articles on [azusa.me](azusa.me)
+- 📝 I regularly write articles on [Azusa.me](azusa.me)
 
 - 📫 How to reach me **fg24680s@gmail.com**
 
