@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TomorrowX6&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 📝 I regularly write articles on [Azusa.me](azusa.me)
-
+- 📝 I regularly write articles on Azusa.me
 - 📫 How to reach me **fg24680s@gmail.com**
 
 - ⚡ Fun fact **Game**
