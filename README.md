@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomorrowx6&show_icons=true&locale=en" alt="tomorrowx6" /></p>
-
 <h1 align="center">Hi 👋, I'm AzusaMoe</h1>
 <h3 align="center">A ACGN Fans And Lolicon</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomorrowx6&label=Profile%20views&color=0e75b6&style=flat" alt="tomorrowx6" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=TomorrowX6&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophy.benkou.dev/?username=TomorrowX6&column=3)](https://github.com/ryo-ma/github-profile-trophy)
